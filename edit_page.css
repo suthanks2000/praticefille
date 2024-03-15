@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-color:#404E4D; */
+    background-color: #2ec4b6;
+    color:#001427;
+    font-size: large;
+    font-weight: bold;
+}
+input{
+    border: none;
+    border-radius: 2px;
+    text-align: center;
+    margin-left: 10px;
+    outline: none;  
+}
+button{
+    border: none;
+    background-color:#F6511D;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius:100px;
+    color:black;
+    box-shadow: 2px 2px 5px black;
+    cursor: pointer;
+
+}
